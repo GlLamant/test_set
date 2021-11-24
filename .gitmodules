@@ -1,3 +1,6 @@
 [submodule "scripts_test"]
 	path = scripts_test
 	url = git@github.com:GlLamant/VariousScripts.git
+[submodule "cmake_test"]
+	path = cmake_test
+	url = git@github.com:GlLamant/cmake_test.git
